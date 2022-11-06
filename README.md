@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology 
 - 👯 I’m looking to collaborate on Open Source Project
-- 📫 How to reach me: debarghya.chakravarty@gmail.com
+- 📫 Reach me: debarghya.chakravarty@gmail.com
 - 💬 Ask me about Tech Related stuffs
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel!
