@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   	<img alt="Flutter" width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
-  <img alt="Figma" width="36px" src="https://cdn.mos.cms.futurecdn.net/mHzNZqeArjYfD2NoJLu9Ag-1920-80.jpg.webp" />
+  <img alt="Figma" width="70px" src="https://cdn.mos.cms.futurecdn.net/mHzNZqeArjYfD2NoJLu9Ag-1920-80.jpg.webp" />
 </td>  
 </tr>  
   
