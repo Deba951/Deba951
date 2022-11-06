@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <h3 align="center">Problem solver and eager to learn new skills</h3>
 
 
-##### I am a full stack developer with 7+ years of industry experience building web applications.
+##### I am a student and developer.
 
-- 🔭 I’m currently working on [BatNoter](https://github.com/batnoter/batnoter).
-- 🌱 I’m currently learning **RegEx**
-- 🤔 I’m looking for help with [BatNoter Issues](https://github.com/batnoter/batnoter/issues)
-- 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: vivekweb2013@gmail.com
+
+- 🌱 I’m pursuing B.Tech. in Computer Science and Engineering at Academy Of Technology 
+- 👯 I’m looking to collaborate on Open Source Project
+- 📫 How to reach me: debarghya.chakravarty@gmail.com
+- 💬 Ask me about Tech Related stuffs
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I paint at times!
+- ⚡ Fun fact: I love to travel!
 
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/814548)  
