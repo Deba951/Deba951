@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ***Hello World!*** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Debarghya Chakravarty </h1>
 
+<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
+
 <h3 align="center">Problem solver and eager to learn new skills</h3>
 
 
