@@ -89,10 +89,9 @@ Here are some ideas to get you started:
 <td width="50%">
   <img alt="Postman" width="36px"  src="https://img.icons8.com/fluent/50/000000/android-os.png"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-	<img alt="Kotlin" width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 	<img alt="Java" width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
   <img alt="Flutter" width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
-	<img alt="Dart" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/> -->
+	<img alt="Dart" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/> 
 </td>  
 </tr>  
   
