@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 <td width="50%">
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  
-  <img alt="Figma" width="36px" src="[https://miro.medium.com/max/1200/1*RWriD6Jy4Ssd0rFjhLNt_w.png](https://www.protocol.com/media-library/figma-logo.png?id=29208385&width=1245&height=700&quality=85&coordinates=0%2C0%2C0%2C0)" />
+  	<img alt="Flutter" width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
+  <img alt="Figma" width="36px" src="https://cdn.mos.cms.futurecdn.net/mHzNZqeArjYfD2NoJLu9Ag-1920-80.jpg.webp" />
 </td>  
 </tr>  
   
