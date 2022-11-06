@@ -138,14 +138,14 @@ Here are some ideas to get you started:
 	<img width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqp2cx5jzo1fDwRv2xd0srp5MZpVtfOxcAw&usqp=CAU"/>
     <img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
     <img width="36px" src="https://download.blender.org/branding/blender_logo_socket.png" />
-	<img width="44px" src="https://gamingbolt.com/wp-content/uploads/2020/08/unreal-engine.jpg" />
+	<img width="48px" src="https://gamingbolt.com/wp-content/uploads/2020/08/unreal-engine.jpg" />
 </td>  
 </tr> 
   
 <tr align="center">  
 <td width="50%"><strong>TOOLS</strong></td>  
 <td width="50%">
-  <img width="42px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
+  <img width="46px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png"/>
@@ -158,7 +158,7 @@ Here are some ideas to get you started:
   <img width="40px" src="https://seeklogo.com/images/T/taskade-logo-6FBAC9A011-seeklogo.com.png"/>
   <img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"/>
   <img width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqp2cx5jzo1fDwRv2xd0srp5MZpVtfOxcAw&usqp=CAU"/>
-	<img width="44px" src="https://gamingbolt.com/wp-content/uploads/2020/08/unreal-engine.jpg" />
+	<img width="48px" src="https://gamingbolt.com/wp-content/uploads/2020/08/unreal-engine.jpg" />
 </td>  
 </tr> 
   
