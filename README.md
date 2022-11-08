@@ -35,6 +35,12 @@ Here are some ideas to get you started:
  
 ---
 
+
+##### Online Presence
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deba951)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Deba951)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Deba951)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/814548) 
+---
+
+
 <div>
   <a href="https://github.com/Deba951">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deba951&show_icons=true&include_all_commits=true&count_private=true"/>
