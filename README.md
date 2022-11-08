@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel!
 
+ 
+---
 
 <div>
   <a href="https://github.com/Deba951">
