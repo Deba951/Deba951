@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ##### Online Presence
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deba951)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)' alt='liinkedin' height='40'>]([https://dev.to/Deba951](https://www.linkedin.com/in/debarghya-chakravarty-5a2563238/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alphadc_27)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deba951)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)' alt='linkedin' height='40'>](https://www.linkedin.com/in/debarghya-chakravarty-5a2563238/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alphadc_27)
 ---
 
 
