@@ -46,11 +46,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deba951&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deba951&layout=compact&langs_count=6"/>
 </div>
+	
+	
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deba951&" alt="Deba951" /></p>	
+	
 
 ![Profile views](https://gpvc.arturio.dev/Deba951)
-
-  
-  
   
   
 
