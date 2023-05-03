@@ -40,15 +40,13 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deba951)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/debarghya-chakravarty-5a2563238/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alphadc_27)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/deba951)
 ---
 
-
-<div>
-  <a href="https://github.com/Deba951">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deba951&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deba951&layout=compact&langs_count=6"/>
-</div>
-	
-	
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deba951&" alt="Deba951" /></p>	
+## 📊 My Github Stats
+<p align="center">
+    <a href="https://github.com/Deba951/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debarghya Chakravarty's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deba951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a></p>
+ <br/>
+    <a href="https://github.com/Deba951/github-readme-stats"><img alt="Debarghya Chakravarty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deba951&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 	
 
 ![Profile views](https://gpvc.arturio.dev/Deba951)
