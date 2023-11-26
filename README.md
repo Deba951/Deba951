@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 	
 
-![Profile views](https://gpvc.arturio.dev/Deba951)
+![](https://komarev.com/ghpvc/?username=Deba951&color=blue&tyle=plastic)
   
   
 
