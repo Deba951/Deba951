@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <i>Software Developer • AI & GenAI Enthusiast • Problem Solver</i>
 </p>
 
-<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="400" height="350"/>
+<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="350" height="450"/>
 <!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
 
 
