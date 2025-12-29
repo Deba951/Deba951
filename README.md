@@ -21,15 +21,15 @@ Here are some ideas to get you started:
   <i>Software Developer • AI & GenAI Enthusiast • Problem Solver</i>
 </p>
 
-<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="350" height="450"/>
+<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="450" height="450"/>
 <!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
 
 
-<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> Building scalable software and AI-powered solutions</h2></summary>
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> Building scalable software and AI solutions</h2></summary>
 
-- 💻 Software Developer focused on building scalable and intelligent systems.
+- 💻 Software Developer - Building scalable, intelligent software.
 - 🎓 B.Tech. graduate in Computer Science & Engineering.
-- 👩🏻‍💻 Learning, building, and integrating AI across diverse technology stacks.
+- 👩🏻‍💻 Learning, building, and integrating AI across diverse tech stacks.
 - 👯 Open to collaborating on impactful Open Source projects.
 - 📫 Reach me at: <a href="mailto:debarghya.chakravarty@gmail.com">debarghya.chakravarty@gmail.com</a> 
 - 💬 Ask me about Tech Related stuffs
