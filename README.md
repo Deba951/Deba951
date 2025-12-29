@@ -15,6 +15,94 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Debarghya Chakravarty </h1>
+
+<p align="center">
+  <i>Software Developer • AI & GenAI Enthusiast • Problem Solver</i>
+</p>
+
+<img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="350" height="350"/>
+<!-- <img align="right" src="https://github.com/Deba951/assets/blob/main/dev.gif" alt="Hola Coders" width="350" height="350"/> -->
+
+
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20iron-man.png" align="center" width="28" /> Building scalable software and AI-powered solutions</h2></summary>
+
+- 💻 Software Developer focused on building scalable and intelligent systems.
+- 🎓 B.Tech. graduate in Computer Science & Engineering.
+- 👩🏻‍💻 Learning, building, and integrating AI across diverse technology stacks.
+- 👯 Open to collaborating on impactful Open Source projects.
+- 📫 Reach me at: <a href="mailto:debarghya.chakravarty@gmail.com">debarghya.chakravarty@gmail.com</a> 
+- 💬 Ask me about Tech Related stuffs
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
+
+<!-- <p align = "center">
+</p> -->
+ <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vercel.com/arnab2001/portfoliosite) -->
+[<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/debarghya-chakravarty-5a2563238/)
+[<img src="https://img.shields.io/badge/hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" >](https://debarghya.hashnode.dev/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alpha_dc27/)
+[![Credly](https://img.shields.io/badge/Credly-View%20All%20Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/debarghya-chakravarty)
+<!-- ![Visitors](https://api.visitorbadge.io/api/combined?path=Deba951&label=visitors&countColor=%23263759&style=flat-square) -->
+
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/ironman.gif" align="center" width="28" /> Blogs</h2> </summary>
+
+ - [Harnessing the Full Potential of Constraint Layout in Android Development](https://debarghya.hashnode.dev/harnessing-the-full-potential-of-constraint-layout-in-android-development)
+ - [Mastering Android App Design: Best Practices, Trends, and Examples](https://debarghya.hashnode.dev/mastering-android-app-design-best-practices-trends-and-examples)
+ - [Understanding CryptoPunks Volume and Prices through Python](https://debarghya.hashnode.dev/understanding-cryptopunks-volume-and-prices-through-python)
+ - [Android Development: Fixing Errors and Bugs](https://debarghya.hashnode.dev/android-development-fixing-errors-and-bugs)
+ - [Lookup Filters in Salesforce: A Comprehensive Guide](https://debarghya.hashnode.dev/lookup-filters-in-salesforce-a-comprehensive-guide)
+
+<summary><h2><img src="https://github.com/Deba951/assets/blob/main/emojis.com%20superman-flying.png" align="center" width="28" /> My Github Stats</h2>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Deba951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=Deba951&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=060A0CD0"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deba951&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=060A0CD0"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deba951&theme=dark&hide_border=true&bg_color=060A0CD0"
+    alt="Profile Details"
+  /> 
+</p> 
+
+<summary><h2> 🏆 Random Dev Quotes</h2> </summary>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&category=programming" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deba951&color=blue&style=plastic" alt="Profile Views" />
+</p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
+
+
+
+
+
+
+
+
+
+
+<!-- Updated 2022 
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ***Hello World!*** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,  I am Debarghya Chakravarty </h1>
 
 <img align="right" src="https://github.com/Deba951/Deba951/blob/main/developer.gif" alt="Hola Coders" width="450" height="350"/>
@@ -173,3 +261,4 @@ Here are some ideas to get you started:
   
  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
+-->
