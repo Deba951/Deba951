@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 </p> 
 
 <summary><h2> 🏆 Random Dev Quotes</h2> </summary>
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&category=programming" />
 </p>
 
